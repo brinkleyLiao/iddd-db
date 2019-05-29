@@ -1,14 +1,10 @@
 # iddd-db
 ch.5 workshop
-
-## iddd-db
 This is a hands-on repository for IDDD.
 
 ## Author
 * Derek
 * Brinkley
-
-## WorkShop
 
 # Background
 * A company provides IT Body Leasing (接案). They have some Employees, and also a lot of Freelancers as Subcontractors. Currently, they use Excel sheets to manage their Customers, Freelancers, Timesheets and so on.
