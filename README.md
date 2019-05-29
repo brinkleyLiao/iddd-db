@@ -2,11 +2,11 @@
 ch.5 workshop
 This is a hands-on repository for IDDD.
 
-## Author
+# Author
 * Derek
 * Brinkley
 
-## Program Language
+# Program Language
 C#
 
 
