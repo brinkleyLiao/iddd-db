@@ -6,6 +6,10 @@ This is a hands-on repository for IDDD.
 * Derek
 * Brinkley
 
+## Program Language
+C#
+
+
 # Background
 * A company provides IT Body Leasing (接案). They have some Employees, and also a lot of Freelancers as Subcontractors. Currently, they use Excel sheets to manage their Customers, Freelancers, Timesheets and so on.
 * New goal: to build a new web based solution with role based security * Requirement summary
