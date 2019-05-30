@@ -1,13 +1,19 @@
 # iddd-db
 ch.5 workshop  
 This is a hands-on repository for IDDD.
-
+***
 # Author
 * `Derek`
 * `Brinkley`
-
+***
 # Program Language
 `C#`
+***
+
+## 設計思考 
+[HackMD](https://hackmd.io/s/SyaC5uTT4)
+
+***
 
 # WorkShop Desc
   > # Background
