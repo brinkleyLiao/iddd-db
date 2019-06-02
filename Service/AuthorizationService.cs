@@ -8,7 +8,7 @@ namespace iddd_db.Service
         private static readonly string[] CustomerAccess = new string[]{"View","Post","Bill"};
 
         //自由接案者權限可用項目
-        private static readonly string[] FreelancerAccess = new string[] { "View", "GET", "TimeSheet" };
+        private static readonly string[] FreelancerAccess = new string[] { "View", "TakeCase", "TimeSheet" };
 
 
         public static bool IsAuth(this IUser user , string action )
